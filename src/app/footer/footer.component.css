@@ -1,0 +1,10 @@
+.footer {
+  background-color: black;
+  margin-top: 10px;
+  height: 170px;
+  color: white;
+}
+.txtWrapper {
+  margin-left: 15px;
+  margin-top: 20px;
+}
